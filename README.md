@@ -1,9 +1,10 @@
 # CURRICULUM & CERTIFICATES
 
-- Curriculum
-<i class="devicon-java-plain"></i>  - Java Web Full-Stack
-<i class="devicon-tensorflow-original"></i>  - Artificial Neural Networks in Python
-<i class="devicon-python-plain"></i>  - Image Segmentation with Python
-<i class="devicon-python-plain"></i>  - Movment Detection with Python and OpenCv
-<i class="devicon-python-plain"></i>  - Object Detection with YOLO, Darknet, OpenCV and Python
-<i class="devicon-python-plain"></i>  - Object Tracking with Python and OpenCV
+
+📄 - Curriculum
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> - Java Web Full-Stack
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" /> - Artificial Neural Networks in Python
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" /> - Image Segmentation with Python
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" /> - Movment Detection with Python and OpenCv
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" /> - Object Detection with YOLO, Darknet, OpenCV and Python
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" /> - Object Tracking with Python and OpenCV
